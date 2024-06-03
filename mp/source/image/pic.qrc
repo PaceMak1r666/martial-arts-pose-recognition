@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>play.svg</file>
+    <file>pause.svg</file>
+    <file>关闭.svg</file>
+    <file>77a4d73ccff048e4b26632a1bc0e8c0.png</file>
+    <file>c96cf2a7c6eb2abd7953f826a526a9a.png</file>
+    <file>71405261d7aa8194755c61833dbac02.png</file>
+    <file>a5a2ba350a984aa8efda2fa4b7821f0.png</file>
+    <file>头像.jpg</file>
+    <file>icon.png</file>
+    <file>ncepu_logo.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,56 @@
+[
+  {
+    "shoulder_left_angle": [33.78, 30],
+    "shoulder_right_angle": [90.6, 30],
+    "hip_left_angle": [110.339, 30],
+    "hip_right_angle": [145.04, 30],
+    "arm_left_angle": [88.53, 30],
+    "arm_right_angle": [153.7, 30],
+    "leg_left_angle": [131.66, 30],
+    "leg_right_angle": [169.65, 30]
+  },
+  {
+    "shoulder_left_angle": [84.6537, 30],
+    "shoulder_right_angle": [23.002, 30],
+    "arm_left_angle": [157.86, 30],
+    "arm_right_angle": [64.9763, 30],
+    "leg_left_angle": [179.62, 30],
+    "leg_right_angle": [149.14, 30]
+  },
+  {
+    "shoulder_left_angle": [174.33, 30],
+    "shoulder_right_angle": [108.358, 30],
+    "hip_left_angle": [166.5, 30],
+    "hip_right_angle": [165.52, 30],
+    "arm_left_angle": [153.118, 30],
+    "arm_right_angle": [171.44, 30],
+    "leg_left_angle": [104.1413, 30],
+    "leg_right_angle": [105.55, 30]
+  },
+  {
+    "shoulder_left_angle": [111.302, 30],
+    "shoulder_right_angle": [27.83, 30],
+    "arm_left_angle": [170.55, 30],
+    "arm_right_angle": [90.167105, 30],
+    "leg_left_angle": [172.45, 30],
+    "leg_right_angle": [156.29, 30]
+  },
+  {
+    "shoulder_left_angle": [65.2654, 30],
+    "shoulder_right_angle": [136.59, 30],
+    "arm_left_angle": [158.98, 30],
+    "arm_right_angle": [179.475, 30],
+    "leg_left_angle": [134.74, 30],
+    "leg_right_angle": [68.966, 30]
+  },
+  {
+    "shoulder_left_angle": [129.47, 30],
+    "shoulder_right_angle": [77.3581, 30],
+    "hip_left_angle": [83.781, 30],
+    "hip_right_angle": [129.3, 30],
+    "arm_left_angle": [165.9, 30],
+    "arm_right_angle": [143.702, 30],
+    "leg_left_angle": [147.7, 30],
+    "leg_right_angle": [138.52, 30]
+  }
+]
